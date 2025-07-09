@@ -6,7 +6,7 @@ A lightweight frontend & documentation layer for the QuickHire+ microservices MV
 🔗 [Live Demo on Render](https://quick-hire-docs.onrender.com)
 
 🧰 Tech Stack:
-- ⚛️ React + Vite (TypeScript)
+- ⚛️ React
 - 🌐 RESTful API Integration with Spring Boot Microservices
 - 📬 RabbitMQ (Async Messaging via Backend)
 - 🛡️ Resilience4j (Observability Layer via Backend)
