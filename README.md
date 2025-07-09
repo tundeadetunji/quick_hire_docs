@@ -1,6 +1,4 @@
-![CI](https://github.com/tundeadetunji/quick_hire_docs/actions/workflows/ci.yml/badge.svg)
-
-
+# 🧑‍💼 QuickHire+  
 A lightweight frontend & documentation layer for the QuickHire+ microservices MVP.
 
 🔗 [Live Demo on Render](https://quick-hire-docs.onrender.com)
